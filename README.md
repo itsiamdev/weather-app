@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Live Demo - See It In Action! 🎬
 
-Check out the live demo: [https://iam269.github.io/weather-app/](https://iam269.github.io/weather-app/) 🌐
+Check out the live demo: [https://itsiamdev.github.io/weather-app/](https://itsiamdev.github.io/weather-app/) 🌐
 
 ---
 
